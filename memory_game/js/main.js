@@ -77,5 +77,7 @@ function createBoard(){
 	}
 }
 
-//function call to display game
+//function call to display gamegit
 createBoard();
+
+//testing
